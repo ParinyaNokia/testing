@@ -2,5 +2,7 @@
     "languague":"Languague",
     "homepage": "Home Page",
     "thai": "Thai",
-    "english": "English"
+    "english": "English",
+    "catagory": "Catagory",
+    "product": "Product"
 }

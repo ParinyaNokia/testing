@@ -2,5 +2,7 @@
     "languague":"ภาษา",
     "homepage": "หน้าโฮม",
     "thai": "ไทย",
-    "english": "อังกฤษ"
+    "english": "อังกฤษ",
+    "catagory": "หมวดหมู่",
+    "product": "สินค้า"
 }
